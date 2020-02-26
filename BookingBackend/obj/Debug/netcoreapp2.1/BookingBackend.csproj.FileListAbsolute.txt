@@ -1,0 +1,16 @@
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\appsettings.json
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\BookingBackend.deps.json
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\BookingBackend.runtimeconfig.json
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\BookingBackend.runtimeconfig.dev.json
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\BookingBackend.dll
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.csprojAssemblyReference.cache
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.RazorAssemblyInfo.cache
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.RazorAssemblyInfo.cs
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.AssemblyInfoInputs.cache
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.AssemblyInfo.cs
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.RazorTargetAssemblyInfo.cache
+D:\BookingBackend\BookingBackend\bin\Debug\netcoreapp2.1\BookingBackend.pdb
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.dll
+D:\BookingBackend\BookingBackend\obj\Debug\netcoreapp2.1\BookingBackend.pdb
